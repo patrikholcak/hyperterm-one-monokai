@@ -1,0 +1,15 @@
+{
+  "name": "hyperterm-one-monokai",
+  "version": "1.0.0",
+  "description": "Monokai One Dark theme for HyperTerm",
+  "license": "MIT",
+  "repository": "patrikholcak/hyperterm-one-monokai",
+  "author": "Patrik Holcak <patrik@holcak.com>",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
